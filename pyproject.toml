@@ -10,5 +10,6 @@ dependencies = [
     "langchain>=0.3.27",
     "langchain-ollama>=0.3.6",
     "langchain-openai>=0.3.30",
+    "langsmith[claude-agent-sdk]>=0.6.7",
     "python-dotenv>=1.1.1",
 ]
